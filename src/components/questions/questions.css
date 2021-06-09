@@ -1,0 +1,27 @@
+.question-container {
+  margin: 1rem auto;
+  margin-left: 4%;
+  height: 100%;
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.questions-div{
+  background-image: url("../../pics/pic2.jpg");
+  
+  background-size:contain;
+}
+.filter-form {
+  margin-left: 2rem;
+  width: 50%;
+  height: 100%;
+  margin: auto;
+  margin-left: 35%;
+  position: relative;
+}
+
+.form-select {
+  background: #5d0856 ;
+  color: white ;
+}
